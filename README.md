@@ -5,7 +5,7 @@ Este repositório serve como meu portfólio de certificados de cursos e treiname
 ## Certificados
 
 - **HASHTAG TREINAMENTOS**  
-  O certificado deste curso está disponível no arquivo [`Validação Certificado.pdf`](Validação Certificado.pdf).
+  O certificado deste curso está disponível no arquivo [Validação Certificado.pdf](Validação%20Certificado.pdf).
 
 ## Objetivo
 
