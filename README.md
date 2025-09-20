@@ -1,15 +1,15 @@
-# Validação Certificado
+# Portfólio de Certificados
 
-Este projeto contém o arquivo `Validação Certificado.pdf`, que aborda o processo de validação de certificados.
+Este repositório serve como meu portfólio de certificados de cursos e treinamentos concluídos.
 
-## Conteúdo
+## Certificados
 
-- `Validação Certificado.pdf`: Documento principal do projeto.
+- **HASHTAG TREINAMENTOS**  
+  O certificado deste curso está disponível no arquivo [`Validação Certificado.pdf`](Validação Certificado.pdf).
 
-## Como usar
+## Objetivo
 
-Abra o arquivo PDF para consultar as informações sobre validação de certificados.
+Aqui serão adicionados todos os meus certificados de cursos realizados.
 
-## Licença
-
-Este projeto é apenas para fins de consulta e estudo.
+---
+*Este repositório é de uso pessoal para organização e validação dos meus certificados.*
