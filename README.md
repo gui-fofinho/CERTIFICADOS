@@ -6,6 +6,13 @@ Este repositório serve como meu portfólio de certificados de cursos e treiname
 
 - **HASHTAG TREINAMENTOS**  
   O certificado deste curso está disponível no arquivo [Validação Certificado.pdf](Validação%20Certificado.pdf).
+  
+  - **UNIVERSIDADE DE CAXIAS DO SUL - UCS - CENTRO TECNOLÓGICO UNIVERSIDADE DE CAXIAS DO SUL - CETEC - CERTIFICADOS PALESTRAS GERAIS**  
+O certificado deste curso está disponível no arquivo [certificado_bate_papo_sobre_carreira.pdf](certificado_bate_papo_sobre_carreira.pdf).
+
+O certificado deste curso está disponível no arquivo [certificado_palestra_emprego_e_inteligencia_artificial.pdf](certificado_palestra_emprego_e_inteligencia_artificial.pdf).
+
+
 
 ## Objetivo
 
