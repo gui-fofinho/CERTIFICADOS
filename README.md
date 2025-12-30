@@ -4,7 +4,7 @@ Este repositório serve como meu portfólio de certificados de cursos e treiname
 
 ## Certificados
 
-- **HASHTAG TREINAMENTOS**  (Jornada Python)
+- **HASHTAG TREINAMENTOS** - (Jornada Python)
   O certificado deste curso está disponível no arquivo [Validação Certificado.pdf](Validação%20Certificado.pdf).
   
 
