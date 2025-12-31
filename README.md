@@ -7,7 +7,8 @@ Este repositório serve como meu portfólio de certificados de cursos e treiname
 - **HASHTAG TREINAMENTOS** - (Jornada Python) -
   O certificado deste curso está disponível no arquivo [Validação Certificado.pdf](Validação%20Certificado.pdf).
   
-
+- **Java Básico [40 Horas]** (Gustavo Guanabara) - 
+  O certificado deste curso está disponível no arquivo [Guilherme-Matte-Java-Basico-40-Horas-Certificado-Curso-em-Video.pdf]. 
 
 
 ## Objetivo
